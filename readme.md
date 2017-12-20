@@ -4,7 +4,7 @@ Maven by default does not distribute with a Bash auto completion script, only [a
 
 ## Demo
 
-![Demo](https://github.com/lijianfeiMeicai/maven-bash-completion/master/demo.gif)
+![Demo](https://raw.githubusercontent.com/juven/maven-bash-completion/master/demo.gif)
 
 ## Installation
 
